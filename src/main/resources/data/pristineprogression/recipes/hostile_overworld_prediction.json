@@ -1,0 +1,94 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDE",
+    "VGP",
+    "SLK"
+  ],
+  "key": {
+    "C": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:creeper"
+        }
+      }
+    },
+    "D": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:drowned"
+        }
+      }
+    },
+    "E": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:elder_guardian"
+        }
+      }
+    },
+    "V": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:evoker"
+        }
+      }
+    },
+    "G": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:guardian"
+        }
+      }
+    },
+    "P": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:phantom"
+        }
+      }
+    },
+    "S": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:spider"
+        }
+      }
+    },
+    "L": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:slime"
+        }
+      }
+    },
+    "K": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:skeleton"
+        }
+      }
+    }
+  },
+  "result": {
+    "item": "pristineprogression:hostile_overworld_prediction"
+  }
+}

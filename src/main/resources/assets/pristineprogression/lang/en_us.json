@@ -1,0 +1,14 @@
+{
+  "itemGroup.pp_tab": "Pristine Progression",
+
+  "item.pristineprogression.nether_blank_data_model": "Nether Blank Data Model",
+  "item.pristineprogression.end_blank_data_model": "End Blank Data Model",
+  "item.pristineprogression.master_blank_data_model": "Master Blank Data Model",
+
+  "item.pristineprogression.passive_overworld_prediction": "Passive Overworld Prediction",
+  "item.pristineprogression.hostile_overworld_prediction": "Hostile Overworld Prediction",
+
+  "pristineprogression.msg.overworld_blank_model": "This is not an overworld mob, this data model only works on overworld mobs.",
+  "pristineprogression.msg.nether_blank_model": "This is not a nether mob, this data model only works on nether mobs.",
+  "pristineprogression.msg.end_blank_model": "This is not an end mob, this data model only works on end mobs."
+}

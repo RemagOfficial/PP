@@ -1,0 +1,76 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SGQ",
+    "PDH",
+    "VWZ"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:sheep"
+        }
+      }
+    },
+    "G": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:snow_golem"
+        }
+      }
+    },
+    "Q": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:squid"
+        }
+      }
+    },
+    "P": {
+      "item": "pristineprogression:passive_overworld_prediction"
+    },
+    "D": {
+      "item": "hostilenetworks:blank_data_model"
+    },
+    "H": {
+      "item": "pristineprogression:hostile_overworld_prediction"
+    },
+    "V": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:vindicator"
+        }
+      }
+    },
+    "W": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:witch"
+        }
+      }
+    },
+    "Z": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:zombie"
+        }
+      }
+    }
+  },
+  "result": {
+    "item": "pristineprogression:nether_blank_data_model"
+  }
+}

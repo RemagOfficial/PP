@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "pristineprogression:item/master_blank_data_model"
+  }
+}

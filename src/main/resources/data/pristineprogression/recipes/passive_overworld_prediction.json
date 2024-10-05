@@ -1,0 +1,94 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "COW",
+    "PMI",
+    "GBR"
+  ],
+  "key": {
+    "C": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:chicken"
+        }
+      }
+    },
+    "O": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:cod"
+        }
+      }
+    },
+    "W": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:cow"
+        }
+      }
+    },
+    "P": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:pig"
+        }
+      }
+    },
+    "M": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:mooshroom"
+        }
+      }
+    },
+    "I": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:iron_golem"
+        }
+      }
+    },
+    "G": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:glow_squid"
+        }
+      }
+    },
+    "B": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:polar_bear"
+        }
+      }
+    },
+    "R": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:rabbit"
+        }
+      }
+    }
+  },
+  "result": {
+    "item": "pristineprogression:passive_overworld_prediction"
+  }
+}

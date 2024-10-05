@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EMW",
+    "SDN",
+    "RGB"
+  ],
+  "key": {
+    "E": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:ender_dragon"
+        }
+      }
+    },
+    "M": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:enderman"
+        }
+      }
+    },
+    "W": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:wither"
+        }
+      }
+    },
+    "S": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:shulker"
+        }
+      }
+    },
+    "D": {
+      "item": "pristineprogression:end_blank_data_model"
+    },
+    "N": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:warden"
+        }
+      }
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    },
+    "G": {
+      "item": "minecraft:green_wool"
+    },
+    "B": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "pristineprogression:master_blank_data_model"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BMH",
+    "GDZ",
+    " W "
+  ],
+  "key": {
+    "B": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:blaze"
+        }
+      }
+    },
+    "M": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:magma_cube"
+        }
+      }
+    },
+    "H": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:hoglin"
+        }
+      }
+    },
+    "G": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:ghast"
+        }
+      }
+    },
+    "D": {
+      "item": "pristineprogression:nether_blank_data_model"
+    },
+    "Z": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:zombified_piglin"
+        }
+      }
+    },
+    "W": {
+      "type": "forge:partial_nbt",
+      "item": "hostilenetworks:prediction",
+      "nbt": {
+        "data_model": {
+          "id": "hostilenetworks:wither_skeleton"
+        }
+      }
+    }
+  },
+  "result": {
+    "item": "pristineprogression:end_blank_data_model"
+  }
+}
